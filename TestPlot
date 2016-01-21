@@ -1,0 +1,43 @@
+window 800 600 white 
+rectangle 700 80 750 60 SeaGreen3
+line 700 80 750 60 SeaGreen3
+text 700 50 "Hello World"
+line 50 50 50 200
+sleep 0.250
+lineDotted 60 50 60 200
+sleep 0.250
+lineDotted 70 50 70 200
+sleep 0.250
+lineSolid 80 50 80 200
+sleep 0.250
+line 90 50 90 200
+sleep 0.250
+line 100 50 100 200
+sleep 0.250
+line 110 50 110 200
+sleep 0.250
+comment this doesnt mean anything
+blah 
+line 120 50 120 200
+sleep 0.250
+line 130 50 130 200
+sleep 0.250
+line 140 50 140 200
+sleep 0.250
+line 150 50 150 200
+sleep 0.250
+line 160 50 160 200
+sleep 0.250
+line 170 50 170 200
+sleep 0.250
+line 180 50 180 200
+sleep 0.250
+line 190 50 190 200
+sleep 0.250
+line 200 50 200 200
+sleep 0.250
+line 210 50 210 200
+sleep 0.250
+line 210 50 220 220
+sleep 0.250
+oval 50 100 70 80
